@@ -1,3 +1,4 @@
+<img width="256" height="256" alt="pack" src="https://github.com/user-attachments/assets/efabd95d-b4ac-4baf-97d5-b0d22ef54462" />
 # Waguriholic-GUI
 Custom Minecraft GUI resource pack featuring Kaoruko Waguri (The Fragrant Flower Blooms With Dignity).
 
